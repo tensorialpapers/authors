@@ -1,1 +1,2 @@
 # authors
+Instructions for authors
