@@ -1,2 +1,3 @@
-# authors
+# FAQ
 Instructions for authors
+
