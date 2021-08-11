@@ -5,6 +5,6 @@ Please refer to the main site to get more information https://papers.tensorial.a
 * **May I be a reviewer? :** Yes, please send us a email or contact through https://www.rd-mediation.fr/wp/contact/
 * **Is there a template for writing a paper? :** Yes, download template.docx  
 * **How to submit a paper? :** The full submission and review process will be available through https://papers.tensorial.ai/papers/ but in the prelaunch time please contact us by email 
-* **What is the project progress? ** Please check https://github.com/tensorialpapers/authors/projects/1
+* **What is the project progress? :** Please check https://github.com/tensorialpapers/authors/projects/1
 
 
